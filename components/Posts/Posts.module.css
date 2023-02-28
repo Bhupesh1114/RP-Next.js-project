@@ -1,0 +1,34 @@
+
+
+.postThoughts{
+    margin: 10px 0px 5px 0px;
+}
+.postThoughts a{
+    text-decoration: none;
+}
+
+.postThoughts .desc{
+    color: gray;
+    line-height: 25px;
+}
+
+.bannerImage_container{
+    position: relative;
+    height: 370px;
+    margin: 10px 0px 15px 0px;
+}
+.postThoughts .bannerImage{
+    border-radius: 5px;
+}
+
+.postData{
+    display: flex;
+}
+
+.postData .postDataNumbers{
+ display: flex;
+ width: 40%;
+ justify-content: space-between;
+ margin-right: auto;
+}
+

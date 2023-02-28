@@ -1,0 +1,13 @@
+.counter{
+    max-width: 1320px;
+    border: 1px solid;
+    height: 500px;
+    margin: 1000px auto 0px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.counter h1{
+    width: 33%;
+    text-align: center;
+}

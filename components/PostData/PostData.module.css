@@ -1,0 +1,22 @@
+.postData{
+    display: flex;
+}
+.postData a{
+    font-weight: 400;
+}
+
+.postData .postDataNumbers{
+ display: flex;
+ width: 40%;
+ justify-content: space-between;
+ margin-right: auto;
+
+}
+
+.postDataNumbersWithReply{
+    width: 33%;
+    display: flex;
+    justify-content: space-between;
+    margin-right: auto;
+     margin-bottom: 10px;
+}

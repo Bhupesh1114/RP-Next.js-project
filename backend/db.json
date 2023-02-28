@@ -1,0 +1,139 @@
+{
+    "posts" : [
+        {
+          "id" : 1,
+          "name" : "Lori Ferguson",
+          "avatar" : "https://social.webestica.com/assets/images/avatar/04.jpg",
+          "post" : "Web Developer at Webestica",
+          "description" : "I'm thrilled to share that I've completed a graduate certificate course in project management with the president's honor roll.",
+          "bannerImage" : "https://social.webestica.com/assets/images/post/3by2/01.jpg",
+          "likes" : 56,
+          "commentsCount" : 12,
+          "share" : 3,
+          "time" : "2hr",
+          "comments" : [
+              {
+                  "id" : 1,
+                  "name" : "Frances Guerrero",
+                  "avatar": "https://social.webestica.com/assets/images/avatar/05.jpg",
+                   "comment" : "Removed demands expense account in outward tedious do. Particular way thoroughly unaffected projection.",
+                   "time" : "5hr",
+                   "likes" : 3,
+                    "allReplies" : [
+                      {
+                          "id" : 1,
+                          "name" : "Lori Stevens",
+                          "avatar": "https://social.webestica.com/assets/images/avatar/06.jpg",
+                          "comment" : "See resolved goodness felicity shy civility domestic had but Drawings offended yet answered Jennings perceive.",
+                          "time" : "2hr",
+                          "likes" : 3,
+                          "allReplies" : []
+                      },
+                      {
+                          "id" : 2,
+                          "name" : "Billy Vasquez",
+                          "avatar": "https://social.webestica.com/assets/images/avatar/07.jpg",
+                          "comment" : "Wishing calling is warrant settled was lucky.",
+                          "time" : "15min",
+                          "likes" : 5,
+                          "allReplies" : []
+                      }
+                    ]
+              },
+              {
+                  "id" : 2,
+                  "name" : "Frances Guerrero",
+                  "avatar": "https://social.webestica.com/assets/images/avatar/05.jpg",
+                   "comment" : "Removed demands expense account in outward tedious do. Particular way thoroughly unaffected projection.",
+                   "time" : "5hr",
+                   "likes" : 6,
+                    "allReplies" : []
+              }
+          ]
+        },
+        {
+          "id" : 2,
+          "name" : "Lori Ferguson",
+          "avatar" : "https://social.webestica.com/assets/images/avatar/05.jpg",
+          "post" : "News anchor at Webestica",
+          "description" : "I'm so privileged to be involved in the @bootstrap hiring process! Interviewing with their team was fun and I hope this can be a valuable.",
+          "bannerImage" : "https://social.webestica.com/assets/images/post/3by2/02.jpg",
+          "likes" : 35,
+          "commentsCount" : 10,
+          "share" : 5,
+          "time" : "5hr",
+          "comments" : [
+              {
+                  "id" : 1,
+                  "name" : "Frances Guerrero",
+                  "avatar": "https://social.webestica.com/assets/images/avatar/01.jpg",
+                   "comment" : "Removed demands expense account in outward tedious do. Particular way thoroughly unaffected projection.",
+                   "time" : "5hr",
+                   "likes" : 8,
+                    "allReplies" : [
+                      {
+                          "id" : 1,
+                          "name" : "Lori Stevens",
+                          "avatar": "https://social.webestica.com/assets/images/avatar/10.jpg",
+                          "comment" : "See resolved goodness felicity shy civility domestic had but Drawings offended yet answered Jennings perceive.",
+                          "time" : "2hr",
+                          "likes" : 4,
+                          "allReplies" : []
+                      },
+                      {
+                          "id" : 2,
+                          "name" : "Billy Vasquez",
+                          "avatar": "https://social.webestica.com/assets/images/avatar/11.jpg",
+                          "comment" : "Wishing calling is warrant settled was lucky.",
+                          "time" : "15min",
+                          "likes" : 10,
+                          "allReplies" : []
+                      }
+                    ]
+              }
+          ]
+        },
+        {
+            "id" : 3,
+            "name" : "Webestica",
+            "avatar" : "https://social.webestica.com/assets/images/logo/11.svg",
+            "post" : "News anchor at Webestica",
+            "description" : "I'm so privileged to be involved in the @bootstrap hiring process! Interviewing with their team was fun and I hope this can be a valuable.",
+            "bannerImage" : "https://social.webestica.com/assets/images/post/1by1/03.jpg",
+            "likes" : 35,
+            "commentsCount" : 10,
+            "share" : 5,
+            "time" : "10hr",
+            "comments" : [
+                {
+                    "id" : 1,
+                    "name" : "Frances Guerrero",
+                    "avatar": "https://social.webestica.com/assets/images/avatar/01.jpg",
+                     "comment" : "Removed demands expense account in outward tedious do. Particular way thoroughly unaffected projection.",
+                     "time" : "5hr",
+                     "likes" : 8,
+                      "allReplies" : [
+                        {
+                            "id" : 1,
+                            "name" : "Lori Stevens",
+                            "avatar": "https://social.webestica.com/assets/images/avatar/10.jpg",
+                            "comment" : "See resolved goodness felicity shy civility domestic had but Drawings offended yet answered Jennings perceive.",
+                            "time" : "2hr",
+                            "likes" : 4,
+                            "allReplies" : []
+                        },
+                        {
+                            "id" : 2,
+                            "name" : "Billy Vasquez",
+                            "avatar": "https://social.webestica.com/assets/images/avatar/11.jpg",
+                            "comment" : "Wishing calling is warrant settled was lucky.",
+                            "time" : "15min",
+                            "likes" : 10,
+                            "allReplies" : []
+                        }
+                      ]
+                }
+            ]
+          }
+     ]
+}
